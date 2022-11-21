@@ -10,7 +10,7 @@
 
 **Parallelism is *NOT* Concurrency!**
 
-![[1.png]]
+![processes](1.png)
 Consider two processes. Both have to wait for some I/O, but at different times.
 
 On multiprocessor systems, they can be executed in **true parallel**. 
