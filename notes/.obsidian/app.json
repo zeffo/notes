@@ -9,5 +9,6 @@
   "newFileLocation": "current",
   "alwaysUpdateLinks": true,
   "useMarkdownLinks": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "newLinkFormat": "relative"
 }
