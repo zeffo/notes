@@ -10,7 +10,7 @@
 
 **Parallelism is *NOT* Concurrency!**
 
-![processes](concurrency.png)
+![](static/concurrency.png)
 
 Consider two processes. Both have to wait for some I/O, but at different times.
 
