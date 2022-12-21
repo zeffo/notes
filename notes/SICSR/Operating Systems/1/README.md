@@ -5,6 +5,6 @@
 2) [Types of Operating Systems](Types.md)
 
 **RELATED**
-1) [Concurrency](../Extras/concurrency.md)
+1) [Concurrency](concurrency.md)
 
 
