@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SICSR/Operating Systems/1/README.md",
+                "file": "SICSR/Extras/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SICSR/Operating Systems/1/README.md"
+                "file": "SICSR/Extras/README.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SICSR/Operating Systems/1/README.md",
+                "file": "SICSR/Extras/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SICSR/Operating Systems/1/README.md",
+                "file": "SICSR/Extras/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,15 +160,15 @@
   },
   "active": "597d33254f4e9bec",
   "lastOpenFiles": [
+    "SICSR/Computational Thinking/1/TranslationSoftware.md",
+    "SICSR/Computational Thinking/1/README.md",
+    "SICSR/Operating Systems/README.md",
+    "SICSR/Operating Systems/1/README.md",
     "SICSR/README.md",
     "SICSR/Operating Systems/2/README.md",
-    "SICSR/Operating Systems/README.md",
     "SICSR/Computational Thinking/README.md",
-    "SICSR/Computational Thinking/1/README.md",
     "SICSR/Computational Thinking/2/conversion.md",
     "SICSR/Computational Thinking/2/types_ns.md",
-    "SICSR/Computational Thinking/2/README.md",
-    "SICSR/Operating Systems/1/Types.md",
-    "SICSR/Computational Thinking/1/TranslationSoftware.md"
+    "SICSR/Computational Thinking/2/README.md"
   ]
 }

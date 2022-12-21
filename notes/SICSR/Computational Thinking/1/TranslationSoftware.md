@@ -19,5 +19,5 @@
 7) **Loader**[^3]: Loads the executable file into main memory for execution.
 
 [^1]: Also called *Tokenization* or *Lexical Analysis*.
-[^2]: Also see [Linking](Linking.md).
-[^3]: Also see [Loading](Loading.md).
+[^2]: Also see [Linking](../../Extras/Linking.md).
+[^3]: Also see [Loading](../../Extras/Loading.md).
